@@ -1,0 +1,12 @@
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+}
+
+.MuiCard-root {
+  transition: 0.3s;
+}
+
+.MuiCard-root:hover {
+  transform: scale(1.03);
+}
